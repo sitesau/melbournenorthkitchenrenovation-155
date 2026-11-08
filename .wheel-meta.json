@@ -1,0 +1,22 @@
+{
+  "wheel_id": 866,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-155",
+  "project": "kitchen-renovations-melbourne-north-how-to-choose-6bc8171f20a63",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-016",
+  "node_role": "buffer",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north how to choose",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-how-to-choose-6bc8171f20a63/",
+  "tier": "T2",
+  "writeback_nonce": "842f53ecf0dfa2d4",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-melbourne-north-016/",
+      "anchor": "this kitchen renovations melbourne north resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
